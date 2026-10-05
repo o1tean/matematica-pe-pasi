@@ -1,0 +1,18 @@
+MATEMATICĂ PE PAȘI
+
+Deschide index.html într-un browser. Site-ul funcționează și fără internet.
+Păstrează celelalte fișiere și folderul assets alături de index.html.
+
+Începe cu lecția 1. Primele 19 lecții acoperă baza; ultimele 6 sunt opționale.
+La fiecare lecție: urmărește pașii, încearcă exercițiul, apoi verifică.
+În „Exersează” găsești și 30 de probleme reale din fișe, cu pași de rezolvare.
+„Materialele tale” conține toate cele 49 de fotografii.
+În „Fișa de formule”, butonul de imprimare permite și salvarea în PDF.
+
+Progresul și cronometrul se păstrează în același browser când stocarea locală
+este disponibilă. Cronometrul măsoară o sesiune de studiu; nu este ora testului.
+
+Verificare: 25 de lecții, 30 de rezolvări, 49 de fotografii; răspunsuri corecte
+și incorecte, fracții și zecimale, mini-test, progres, cronometru, ecrane
+de 390/768/1280 px și text mărit la 200%. Fără erori de execuție în aceste teste.
+Formulele au fost revizuite separat și verificate prin calcule/derivare.
